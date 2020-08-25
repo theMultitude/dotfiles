@@ -57,7 +57,7 @@ module.exports = {
     // 'box-sync',
     //'comicbooklover',
     //'diffmerge',
-    'docker', // docker for mac
+    //'docker', // docker for mac
     //'dropbox',
     //'evernote',
     'flux',
@@ -71,27 +71,27 @@ module.exports = {
     //'macvim',
     'sizeup',
     //'sketchup',
-    'slack',
+    //'slack',
     'the-unarchiver',
     //'torbrowser',
     //'transmission',
-    'visual-studio-code',
+    //'visual-studio-code',
     //'vlc',
     'xquartz'
   ],
   gem: [
   ],
   npm: [
-    'antic',
-    'buzzphrase',
-    'eslint',
-    'instant-markdown-d',
+    //'antic',
+    //'buzzphrase',
+    //'eslint',
+    //'instant-markdown-d',
     // 'generator-dockerize',
     // 'gulp',
-    'npm-check-updates',
-    'prettyjson',
-    'trash',
-    'vtop'
+    //'npm-check-updates',
+    //'prettyjson',
+    //'trash',
+    //'vtop'
     // ,'yo'
   ],
   mas: [
